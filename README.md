@@ -1,8 +1,6 @@
 # Argyros
 
-<p align="center">
-  <img src="docs/assets/logo.png" alt="Logo Argyros" width="180">
-</p>
+
 
 <h3 align="center">
 Pilotez vos finances. Préparez votre avenir.
@@ -237,9 +235,9 @@ Statistiques :
 
 ---
 
-## Assistant IA *(Prévu)*
+## Assistant IA 
 
-Les futures versions intégreront un assistant intelligent capable de :
+Un assistant intelligent capable de :
 
 * analyser les habitudes financières ;
 * proposer des optimisations budgétaires ;
