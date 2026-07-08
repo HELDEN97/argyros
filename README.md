@@ -444,17 +444,6 @@ npm run test
 
 ---
 
-# Qualité du code
-
-Python
-
-```bash
-ruff check
-
-ruff format
-
-mypy
-```
 
 Frontend
 
@@ -476,11 +465,6 @@ Swagger
 /docs
 ```
 
-ReDoc
-
-```
-/redoc
-```
 
 ---
 
@@ -552,19 +536,6 @@ Elle comprend :
 
 ---
 
-# Contribution
-
-Les contributions sont les bienvenues.
-
-Processus recommandé :
-
-1. Créer une branche dédiée.
-2. Développer la fonctionnalité.
-3. Ajouter les tests nécessaires.
-4. Ouvrir une Pull Request.
-5. Effectuer la revue de code avant fusion.
-
----
 
 # Licence
 
